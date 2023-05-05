@@ -1,0 +1,13 @@
+/* THIS IS THE EXTERNAL CSS FOR EZEA RICHARD'S CV WEBSITE */
+body {
+    background-color: #FFF9DE;
+}
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 10px;
+    width: 5%;
+}
+h1, h3 {
+    color: #66BFBF;
+}
